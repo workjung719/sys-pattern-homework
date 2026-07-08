@@ -39,6 +39,6 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 
 ### Задание 3
 
-`Три главных типа индексов, которые есть в PostgreSQL, но которых нет в MySQL: GIN, GiST, BRIN`
+Три главных типа индексов, которые есть в PostgreSQL, но которых нет в MySQL: GIN, GiST, BRIN
 
 ---
